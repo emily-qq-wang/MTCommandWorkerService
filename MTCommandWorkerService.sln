@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTCommandProcessor", "MTCommandProcessor\MTCommandProcessor.csproj", "{60381597-FE6A-43B2-8857-5971F5246F60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTCommandProcessor.Tests", "MTCommandService.Tests\MTCommandProcessor.Tests.csproj", "{5579DEB4-B017-45C5-848B-0B141B3052DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60381597-FE6A-43B2-8857-5971F5246F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60381597-FE6A-43B2-8857-5971F5246F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60381597-FE6A-43B2-8857-5971F5246F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60381597-FE6A-43B2-8857-5971F5246F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5579DEB4-B017-45C5-848B-0B141B3052DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5579DEB4-B017-45C5-848B-0B141B3052DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5579DEB4-B017-45C5-848B-0B141B3052DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5579DEB4-B017-45C5-848B-0B141B3052DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85154D7F-4B83-473C-A760-2B70177ED55C}
+	EndGlobalSection
+EndGlobal

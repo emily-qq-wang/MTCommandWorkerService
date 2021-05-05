@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "MTCommandProcessor": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
